@@ -11,7 +11,7 @@ class PerspectiveShell < Formula
   def install
     jarname = 'perspective-shell.jar'
     libexec.install "data/#{jarname}"
-    libexec.install "data/lib/*.jar"
+    libexec.install "data/lib"
     bin.write_jar_script libexec/jarname, "perspective"
   end
 
