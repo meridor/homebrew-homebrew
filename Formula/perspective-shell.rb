@@ -2,10 +2,10 @@ require 'formula'
 
 class PerspectiveShell < Formula
   homepage 'https://github.com/meridor/perspective-backend'
-  url 'https://github.com/meridor/perspective-backend/releases/download/perspective-backend-1.0.0/perspective-shell.zip'
+  url 'https://github.com/meridor/perspective-backend/releases/download/perspective-backend-1.1.1/perspective-shell.zip'
   head 'https://github.com/meridor/perspective-backend.git'
-  sha1 'fcac8ae3ca69fb8871dcc252e6e4ed38f9388b09'
-  version "1.0.0"
+  sha1 '198f7829346df4fae23095fb9db09d7301257942'
+  version "1.1.1"
 
 
   def install
