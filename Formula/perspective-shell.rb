@@ -9,7 +9,7 @@ class PerspectiveShell < Formula
 
   devel do
     url 'https://github.com/meridor/perspective-backend/releases/download/perspective-backend-1.3.4-RC1/perspective-shell.zip'
-    sha256 "c64b0a1b1114b73e2808bda9bbbb1c19bd40badd47c954b83b2552991599ee68"
+    sha256 '0bfd2231b986a451ddacc6c5d016d718eb26a26758cc84b045295ec1c95872fa'
   end
 
   def install
