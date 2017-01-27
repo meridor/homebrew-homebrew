@@ -4,7 +4,7 @@ class PerspectiveShell < Formula
   homepage 'https://github.com/meridor/perspective-backend'
   url 'https://github.com/meridor/perspective-backend/releases/download/perspective-backend-1.3.4.1/perspective-shell.zip'
   head 'https://github.com/meridor/perspective-backend.git'
-  sha256 'a37427602039f8d32ea9dc3e5be47ea3e2d7cdbcd989060d724cd8773f49caf5'
+  sha256 '42857d9e387b0ab32b8058c5fffc76247a46a2c099265cd1b935ba6a50ec8a92'
   version '1.3.4.1'
 
   devel do
